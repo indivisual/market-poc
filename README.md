@@ -5,5 +5,5 @@ Vue CLI3 plugin for Onesait
 ## How to use
 
 ```
-$ vue create --preset onesaitux/cli3 nombreproducto
+$ vue create --preset onesaitux/pocmp nombreproducto
 ```
